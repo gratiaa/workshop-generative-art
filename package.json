@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+  },
   "keywords": [],
   "author": "Matt DesLauriers <dave.des@gmail.com>",
   "dependencies": {
